@@ -10,6 +10,7 @@ This article describes the steps required for adding support for the IMA Plugin 
 ```
 implementation 'com.kaltura.playkit:imaplugin:4.x.x'
 ```
+
 ### Configure the Plugin Configuration Object  
 
 To configure the plugin, add the following configuration to your `pluginConfig` file as follows:
